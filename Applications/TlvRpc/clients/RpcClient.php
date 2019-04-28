@@ -186,6 +186,7 @@ class RpcClient
 
             //同步
             $this->transport->send($_jsonData);
+            //usleep(100000);
             $result = $this->transport->recv();
             Std::debug(
                 sprintf("RpcClient同步调用: %s->%s(%s) [耗时](%.3fs) \r\n[结果] %s", 
@@ -381,7 +382,7 @@ class Transport {
 
         stream_set_blocking($conn,true);
         //stream_set_timeout($conn,1);
-        stream_set_timeout($conn,0,100);
+        stream_set_timeout($conn,0,100*1000);
         $this->conn = $conn;
         return $conn;
     }

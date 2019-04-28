@@ -11,9 +11,9 @@
  * @link http://www.workerman.net/
  * @license http://www.opensource.org/licenses/mit-license.php MIT License
  */
-
 /**
  * 统计客户端
+ * @author workerman.net
  */
 class StatisticClient
 {

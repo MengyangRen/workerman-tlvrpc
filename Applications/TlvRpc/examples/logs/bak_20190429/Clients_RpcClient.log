@@ -17,3 +17,1034 @@
 [结果] 'ExampleService.hello..1000'
 [2019-04-29 02:53:20] [DEBUG] RpcClient同步调用: ExampleService->hello2(1000) [耗时](0.001s) 
 [结果] 'ExampleService.hello2..1000'
+[2019-04-29 04:02:51] [DEBUG] RpcClient同步调用: UserService->getInfoByUid(1000) [耗时](0.017s) 
+[结果] array (
+  0 => 
+  stdClass::__set_state(array(
+     'uname' => 'vicnetn.ren',
+     'age' => 27,
+     'desc' => '有点小狂战。。',
+  )),
+  1 => 
+  stdClass::__set_state(array(
+     'uname' => 'vicnetn.ren',
+     'age' => 27,
+     'desc' => '有点小狂战。。',
+  )),
+)
+[2019-04-29 04:02:51] [DEBUG] RpcClient同步调用: ExampleService->hello(1000) [耗时](0.014s) 
+[结果] 'ExampleService.hello..1000'
+[2019-04-29 04:02:51] [DEBUG] RpcClient同步调用: ExampleService->hello2(1000) [耗时](0.014s) 
+[结果] 'ExampleService.hello2..1000'
+[2019-04-29 04:03:48] [DEBUG] RpcClient同步调用: UserService->getInfoByUid(1000) [耗时](0.013s) 
+[结果] array (
+  0 => 
+  stdClass::__set_state(array(
+     'uname' => 'vicnetn.ren',
+     'age' => 27,
+     'desc' => '有点小狂战。。',
+  )),
+  1 => 
+  stdClass::__set_state(array(
+     'uname' => 'vicnetn.ren',
+     'age' => 27,
+     'desc' => '有点小狂战。。',
+  )),
+)
+[2019-04-29 04:06:19] [DEBUG] RpcClient同步调用: UserService->getInfoByUid(1000) [耗时](1.025s) 
+[结果] array (
+  0 => 
+  stdClass::__set_state(array(
+     'uname' => 'vicnetn.ren',
+     'age' => 27,
+     'desc' => '有点小狂战。。',
+  )),
+  1 => 
+  stdClass::__set_state(array(
+     'uname' => 'vicnetn.ren',
+     'age' => 27,
+     'desc' => '有点小狂战。。',
+  )),
+)
+[2019-04-29 04:06:22] [DEBUG] RpcClient同步调用: UserService->getInfoByUid(1000) [耗时](1.007s) 
+[结果] array (
+  0 => 
+  stdClass::__set_state(array(
+     'uname' => 'vicnetn.ren',
+     'age' => 27,
+     'desc' => '有点小狂战。。',
+  )),
+  1 => 
+  stdClass::__set_state(array(
+     'uname' => 'vicnetn.ren',
+     'age' => 27,
+     'desc' => '有点小狂战。。',
+  )),
+)
+[2019-04-29 04:06:24] [DEBUG] RpcClient同步调用: UserService->getInfoByUid(1000) [耗时](1.001s) 
+[结果] array (
+  0 => 
+  stdClass::__set_state(array(
+     'uname' => 'vicnetn.ren',
+     'age' => 27,
+     'desc' => '有点小狂战。。',
+  )),
+  1 => 
+  stdClass::__set_state(array(
+     'uname' => 'vicnetn.ren',
+     'age' => 27,
+     'desc' => '有点小狂战。。',
+  )),
+)
+[2019-04-29 04:06:26] [DEBUG] RpcClient同步调用: UserService->getInfoByUid(1000) [耗时](1.003s) 
+[结果] array (
+  0 => 
+  stdClass::__set_state(array(
+     'uname' => 'vicnetn.ren',
+     'age' => 27,
+     'desc' => '有点小狂战。。',
+  )),
+  1 => 
+  stdClass::__set_state(array(
+     'uname' => 'vicnetn.ren',
+     'age' => 27,
+     'desc' => '有点小狂战。。',
+  )),
+)
+[2019-04-29 04:07:07] [DEBUG] RpcClient同步调用: UserService->getInfoByUid(1000) [耗时](0.001s) 
+[结果] array (
+  0 => 
+  stdClass::__set_state(array(
+     'uname' => 'vicnetn.ren',
+     'age' => 27,
+     'desc' => '有点小狂战。。',
+  )),
+  1 => 
+  stdClass::__set_state(array(
+     'uname' => 'vicnetn.ren',
+     'age' => 27,
+     'desc' => '有点小狂战。。',
+  )),
+)
+[2019-04-29 04:07:08] [DEBUG] RpcClient同步调用: UserService->getInfoByUid(1000) [耗时](0.001s) 
+[结果] array (
+  0 => 
+  stdClass::__set_state(array(
+     'uname' => 'vicnetn.ren',
+     'age' => 27,
+     'desc' => '有点小狂战。。',
+  )),
+  1 => 
+  stdClass::__set_state(array(
+     'uname' => 'vicnetn.ren',
+     'age' => 27,
+     'desc' => '有点小狂战。。',
+  )),
+)
+[2019-04-29 04:07:08] [DEBUG] RpcClient同步调用: UserService->getInfoByUid(1000) [耗时](0.001s) 
+[结果] array (
+  0 => 
+  stdClass::__set_state(array(
+     'uname' => 'vicnetn.ren',
+     'age' => 27,
+     'desc' => '有点小狂战。。',
+  )),
+  1 => 
+  stdClass::__set_state(array(
+     'uname' => 'vicnetn.ren',
+     'age' => 27,
+     'desc' => '有点小狂战。。',
+  )),
+)
+[2019-04-29 04:07:09] [DEBUG] RpcClient同步调用: UserService->getInfoByUid(1000) [耗时](0.001s) 
+[结果] array (
+  0 => 
+  stdClass::__set_state(array(
+     'uname' => 'vicnetn.ren',
+     'age' => 27,
+     'desc' => '有点小狂战。。',
+  )),
+  1 => 
+  stdClass::__set_state(array(
+     'uname' => 'vicnetn.ren',
+     'age' => 27,
+     'desc' => '有点小狂战。。',
+  )),
+)
+[2019-04-29 04:07:10] [DEBUG] RpcClient同步调用: UserService->getInfoByUid(1000) [耗时](0.001s) 
+[结果] array (
+  0 => 
+  stdClass::__set_state(array(
+     'uname' => 'vicnetn.ren',
+     'age' => 27,
+     'desc' => '有点小狂战。。',
+  )),
+  1 => 
+  stdClass::__set_state(array(
+     'uname' => 'vicnetn.ren',
+     'age' => 27,
+     'desc' => '有点小狂战。。',
+  )),
+)
+[2019-04-29 04:07:10] [DEBUG] RpcClient同步调用: UserService->getInfoByUid(1000) [耗时](0.001s) 
+[结果] array (
+  0 => 
+  stdClass::__set_state(array(
+     'uname' => 'vicnetn.ren',
+     'age' => 27,
+     'desc' => '有点小狂战。。',
+  )),
+  1 => 
+  stdClass::__set_state(array(
+     'uname' => 'vicnetn.ren',
+     'age' => 27,
+     'desc' => '有点小狂战。。',
+  )),
+)
+[2019-04-29 04:07:11] [DEBUG] RpcClient同步调用: UserService->getInfoByUid(1000) [耗时](0.001s) 
+[结果] array (
+  0 => 
+  stdClass::__set_state(array(
+     'uname' => 'vicnetn.ren',
+     'age' => 27,
+     'desc' => '有点小狂战。。',
+  )),
+  1 => 
+  stdClass::__set_state(array(
+     'uname' => 'vicnetn.ren',
+     'age' => 27,
+     'desc' => '有点小狂战。。',
+  )),
+)
+[2019-04-29 04:07:12] [DEBUG] RpcClient同步调用: UserService->getInfoByUid(1000) [耗时](0.001s) 
+[结果] array (
+  0 => 
+  stdClass::__set_state(array(
+     'uname' => 'vicnetn.ren',
+     'age' => 27,
+     'desc' => '有点小狂战。。',
+  )),
+  1 => 
+  stdClass::__set_state(array(
+     'uname' => 'vicnetn.ren',
+     'age' => 27,
+     'desc' => '有点小狂战。。',
+  )),
+)
+[2019-04-29 04:07:12] [DEBUG] RpcClient同步调用: UserService->getInfoByUid(1000) [耗时](0.001s) 
+[结果] array (
+  0 => 
+  stdClass::__set_state(array(
+     'uname' => 'vicnetn.ren',
+     'age' => 27,
+     'desc' => '有点小狂战。。',
+  )),
+  1 => 
+  stdClass::__set_state(array(
+     'uname' => 'vicnetn.ren',
+     'age' => 27,
+     'desc' => '有点小狂战。。',
+  )),
+)
+[2019-04-29 04:07:13] [DEBUG] RpcClient同步调用: UserService->getInfoByUid(1000) [耗时](0.001s) 
+[结果] array (
+  0 => 
+  stdClass::__set_state(array(
+     'uname' => 'vicnetn.ren',
+     'age' => 27,
+     'desc' => '有点小狂战。。',
+  )),
+  1 => 
+  stdClass::__set_state(array(
+     'uname' => 'vicnetn.ren',
+     'age' => 27,
+     'desc' => '有点小狂战。。',
+  )),
+)
+[2019-04-29 04:07:22] [DEBUG] RpcClient同步调用: UserService->getInfoByUid(1000) [耗时](0.001s) 
+[结果] array (
+  0 => 
+  stdClass::__set_state(array(
+     'uname' => 'vicnetn.ren',
+     'age' => 27,
+     'desc' => '有点小狂战。。',
+  )),
+  1 => 
+  stdClass::__set_state(array(
+     'uname' => 'vicnetn.ren',
+     'age' => 27,
+     'desc' => '有点小狂战。。',
+  )),
+)
+[2019-04-29 04:07:23] [DEBUG] RpcClient同步调用: UserService->getInfoByUid(1000) [耗时](0.001s) 
+[结果] array (
+  0 => 
+  stdClass::__set_state(array(
+     'uname' => 'vicnetn.ren',
+     'age' => 27,
+     'desc' => '有点小狂战。。',
+  )),
+  1 => 
+  stdClass::__set_state(array(
+     'uname' => 'vicnetn.ren',
+     'age' => 27,
+     'desc' => '有点小狂战。。',
+  )),
+)
+[2019-04-29 04:07:24] [DEBUG] RpcClient同步调用: UserService->getInfoByUid(1000) [耗时](0.001s) 
+[结果] array (
+  0 => 
+  stdClass::__set_state(array(
+     'uname' => 'vicnetn.ren',
+     'age' => 27,
+     'desc' => '有点小狂战。。',
+  )),
+  1 => 
+  stdClass::__set_state(array(
+     'uname' => 'vicnetn.ren',
+     'age' => 27,
+     'desc' => '有点小狂战。。',
+  )),
+)
+[2019-04-29 04:07:25] [DEBUG] RpcClient同步调用: UserService->getInfoByUid(1000) [耗时](0.001s) 
+[结果] array (
+  0 => 
+  stdClass::__set_state(array(
+     'uname' => 'vicnetn.ren',
+     'age' => 27,
+     'desc' => '有点小狂战。。',
+  )),
+  1 => 
+  stdClass::__set_state(array(
+     'uname' => 'vicnetn.ren',
+     'age' => 27,
+     'desc' => '有点小狂战。。',
+  )),
+)
+[2019-04-29 04:07:25] [DEBUG] RpcClient同步调用: UserService->getInfoByUid(1000) [耗时](0.001s) 
+[结果] array (
+  0 => 
+  stdClass::__set_state(array(
+     'uname' => 'vicnetn.ren',
+     'age' => 27,
+     'desc' => '有点小狂战。。',
+  )),
+  1 => 
+  stdClass::__set_state(array(
+     'uname' => 'vicnetn.ren',
+     'age' => 27,
+     'desc' => '有点小狂战。。',
+  )),
+)
+[2019-04-29 04:07:26] [DEBUG] RpcClient同步调用: UserService->getInfoByUid(1000) [耗时](0.001s) 
+[结果] array (
+  0 => 
+  stdClass::__set_state(array(
+     'uname' => 'vicnetn.ren',
+     'age' => 27,
+     'desc' => '有点小狂战。。',
+  )),
+  1 => 
+  stdClass::__set_state(array(
+     'uname' => 'vicnetn.ren',
+     'age' => 27,
+     'desc' => '有点小狂战。。',
+  )),
+)
+[2019-04-29 04:07:26] [DEBUG] RpcClient同步调用: UserService->getInfoByUid(1000) [耗时](0.001s) 
+[结果] array (
+  0 => 
+  stdClass::__set_state(array(
+     'uname' => 'vicnetn.ren',
+     'age' => 27,
+     'desc' => '有点小狂战。。',
+  )),
+  1 => 
+  stdClass::__set_state(array(
+     'uname' => 'vicnetn.ren',
+     'age' => 27,
+     'desc' => '有点小狂战。。',
+  )),
+)
+[2019-04-29 04:07:27] [DEBUG] RpcClient同步调用: UserService->getInfoByUid(1000) [耗时](0.001s) 
+[结果] array (
+  0 => 
+  stdClass::__set_state(array(
+     'uname' => 'vicnetn.ren',
+     'age' => 27,
+     'desc' => '有点小狂战。。',
+  )),
+  1 => 
+  stdClass::__set_state(array(
+     'uname' => 'vicnetn.ren',
+     'age' => 27,
+     'desc' => '有点小狂战。。',
+  )),
+)
+[2019-04-29 04:07:27] [DEBUG] RpcClient同步调用: UserService->getInfoByUid(1000) [耗时](0.001s) 
+[结果] array (
+  0 => 
+  stdClass::__set_state(array(
+     'uname' => 'vicnetn.ren',
+     'age' => 27,
+     'desc' => '有点小狂战。。',
+  )),
+  1 => 
+  stdClass::__set_state(array(
+     'uname' => 'vicnetn.ren',
+     'age' => 27,
+     'desc' => '有点小狂战。。',
+  )),
+)
+[2019-04-29 04:07:28] [DEBUG] RpcClient同步调用: UserService->getInfoByUid(1000) [耗时](0.001s) 
+[结果] array (
+  0 => 
+  stdClass::__set_state(array(
+     'uname' => 'vicnetn.ren',
+     'age' => 27,
+     'desc' => '有点小狂战。。',
+  )),
+  1 => 
+  stdClass::__set_state(array(
+     'uname' => 'vicnetn.ren',
+     'age' => 27,
+     'desc' => '有点小狂战。。',
+  )),
+)
+[2019-04-29 04:07:28] [DEBUG] RpcClient同步调用: UserService->getInfoByUid(1000) [耗时](0.001s) 
+[结果] array (
+  0 => 
+  stdClass::__set_state(array(
+     'uname' => 'vicnetn.ren',
+     'age' => 27,
+     'desc' => '有点小狂战。。',
+  )),
+  1 => 
+  stdClass::__set_state(array(
+     'uname' => 'vicnetn.ren',
+     'age' => 27,
+     'desc' => '有点小狂战。。',
+  )),
+)
+[2019-04-29 04:07:29] [DEBUG] RpcClient同步调用: UserService->getInfoByUid(1000) [耗时](0.001s) 
+[结果] array (
+  0 => 
+  stdClass::__set_state(array(
+     'uname' => 'vicnetn.ren',
+     'age' => 27,
+     'desc' => '有点小狂战。。',
+  )),
+  1 => 
+  stdClass::__set_state(array(
+     'uname' => 'vicnetn.ren',
+     'age' => 27,
+     'desc' => '有点小狂战。。',
+  )),
+)
+[2019-04-29 04:07:29] [DEBUG] RpcClient同步调用: UserService->getInfoByUid(1000) [耗时](0.001s) 
+[结果] array (
+  0 => 
+  stdClass::__set_state(array(
+     'uname' => 'vicnetn.ren',
+     'age' => 27,
+     'desc' => '有点小狂战。。',
+  )),
+  1 => 
+  stdClass::__set_state(array(
+     'uname' => 'vicnetn.ren',
+     'age' => 27,
+     'desc' => '有点小狂战。。',
+  )),
+)
+[2019-04-29 04:07:30] [DEBUG] RpcClient同步调用: UserService->getInfoByUid(1000) [耗时](0.000s) 
+[结果] array (
+  0 => 
+  stdClass::__set_state(array(
+     'uname' => 'vicnetn.ren',
+     'age' => 27,
+     'desc' => '有点小狂战。。',
+  )),
+  1 => 
+  stdClass::__set_state(array(
+     'uname' => 'vicnetn.ren',
+     'age' => 27,
+     'desc' => '有点小狂战。。',
+  )),
+)
+[2019-04-29 04:07:30] [DEBUG] RpcClient同步调用: UserService->getInfoByUid(1000) [耗时](0.001s) 
+[结果] array (
+  0 => 
+  stdClass::__set_state(array(
+     'uname' => 'vicnetn.ren',
+     'age' => 27,
+     'desc' => '有点小狂战。。',
+  )),
+  1 => 
+  stdClass::__set_state(array(
+     'uname' => 'vicnetn.ren',
+     'age' => 27,
+     'desc' => '有点小狂战。。',
+  )),
+)
+[2019-04-29 04:07:31] [DEBUG] RpcClient同步调用: UserService->getInfoByUid(1000) [耗时](0.001s) 
+[结果] array (
+  0 => 
+  stdClass::__set_state(array(
+     'uname' => 'vicnetn.ren',
+     'age' => 27,
+     'desc' => '有点小狂战。。',
+  )),
+  1 => 
+  stdClass::__set_state(array(
+     'uname' => 'vicnetn.ren',
+     'age' => 27,
+     'desc' => '有点小狂战。。',
+  )),
+)
+[2019-04-29 04:07:32] [DEBUG] RpcClient同步调用: UserService->getInfoByUid(1000) [耗时](0.001s) 
+[结果] array (
+  0 => 
+  stdClass::__set_state(array(
+     'uname' => 'vicnetn.ren',
+     'age' => 27,
+     'desc' => '有点小狂战。。',
+  )),
+  1 => 
+  stdClass::__set_state(array(
+     'uname' => 'vicnetn.ren',
+     'age' => 27,
+     'desc' => '有点小狂战。。',
+  )),
+)
+[2019-04-29 04:07:32] [DEBUG] RpcClient同步调用: UserService->getInfoByUid(1000) [耗时](0.001s) 
+[结果] array (
+  0 => 
+  stdClass::__set_state(array(
+     'uname' => 'vicnetn.ren',
+     'age' => 27,
+     'desc' => '有点小狂战。。',
+  )),
+  1 => 
+  stdClass::__set_state(array(
+     'uname' => 'vicnetn.ren',
+     'age' => 27,
+     'desc' => '有点小狂战。。',
+  )),
+)
+[2019-04-29 04:07:33] [DEBUG] RpcClient同步调用: UserService->getInfoByUid(1000) [耗时](0.001s) 
+[结果] array (
+  0 => 
+  stdClass::__set_state(array(
+     'uname' => 'vicnetn.ren',
+     'age' => 27,
+     'desc' => '有点小狂战。。',
+  )),
+  1 => 
+  stdClass::__set_state(array(
+     'uname' => 'vicnetn.ren',
+     'age' => 27,
+     'desc' => '有点小狂战。。',
+  )),
+)
+[2019-04-29 04:07:34] [DEBUG] RpcClient同步调用: UserService->getInfoByUid(1000) [耗时](0.001s) 
+[结果] array (
+  0 => 
+  stdClass::__set_state(array(
+     'uname' => 'vicnetn.ren',
+     'age' => 27,
+     'desc' => '有点小狂战。。',
+  )),
+  1 => 
+  stdClass::__set_state(array(
+     'uname' => 'vicnetn.ren',
+     'age' => 27,
+     'desc' => '有点小狂战。。',
+  )),
+)
+[2019-04-29 04:07:35] [DEBUG] RpcClient同步调用: UserService->getInfoByUid(1000) [耗时](0.001s) 
+[结果] array (
+  0 => 
+  stdClass::__set_state(array(
+     'uname' => 'vicnetn.ren',
+     'age' => 27,
+     'desc' => '有点小狂战。。',
+  )),
+  1 => 
+  stdClass::__set_state(array(
+     'uname' => 'vicnetn.ren',
+     'age' => 27,
+     'desc' => '有点小狂战。。',
+  )),
+)
+[2019-04-29 04:08:05] [DEBUG] RpcClient同步调用: UserService->getInfoByUid(1000) [耗时](0.001s) 
+[结果] array (
+  0 => 
+  stdClass::__set_state(array(
+     'uname' => 'vicnetn.ren',
+     'age' => 27,
+     'desc' => '有点小狂战。。',
+  )),
+  1 => 
+  stdClass::__set_state(array(
+     'uname' => 'vicnetn.ren',
+     'age' => 27,
+     'desc' => '有点小狂战。。',
+  )),
+)
+[2019-04-29 04:08:28] [DEBUG] RpcClient同步调用: UserService->getInfoByUid(1000) [耗时](1.032s) 
+[结果] array (
+  0 => 
+  stdClass::__set_state(array(
+     'uname' => 'vicnetn.ren',
+     'age' => 27,
+     'desc' => '有点小狂战。。',
+  )),
+  1 => 
+  stdClass::__set_state(array(
+     'uname' => 'vicnetn.ren',
+     'age' => 27,
+     'desc' => '有点小狂战。。',
+  )),
+)
+[2019-04-29 04:08:32] [DEBUG] RpcClient同步调用: UserService->getInfoByUid(1000) [耗时](1.025s) 
+[结果] array (
+  0 => 
+  stdClass::__set_state(array(
+     'uname' => 'vicnetn.ren',
+     'age' => 27,
+     'desc' => '有点小狂战。。',
+  )),
+  1 => 
+  stdClass::__set_state(array(
+     'uname' => 'vicnetn.ren',
+     'age' => 27,
+     'desc' => '有点小狂战。。',
+  )),
+)
+[2019-04-29 04:09:05] [DEBUG] RpcClient同步调用: UserService->getInfoByUid(1000) [耗时](0.002s) 
+[结果] array (
+  0 => 
+  stdClass::__set_state(array(
+     'uname' => 'vicnetn.ren',
+     'age' => 27,
+     'desc' => '有点小狂战。。',
+  )),
+  1 => 
+  stdClass::__set_state(array(
+     'uname' => 'vicnetn.ren',
+     'age' => 27,
+     'desc' => '有点小狂战。。',
+  )),
+)
+[2019-04-29 04:09:07] [DEBUG] RpcClient同步调用: UserService->getInfoByUid(1000) [耗时](0.002s) 
+[结果] array (
+  0 => 
+  stdClass::__set_state(array(
+     'uname' => 'vicnetn.ren',
+     'age' => 27,
+     'desc' => '有点小狂战。。',
+  )),
+  1 => 
+  stdClass::__set_state(array(
+     'uname' => 'vicnetn.ren',
+     'age' => 27,
+     'desc' => '有点小狂战。。',
+  )),
+)
+[2019-04-29 04:09:36] [DEBUG] RpcClient同步调用: UserService->getInfoByUid(1000) [耗时](0.002s) 
+[结果] array (
+  0 => 
+  stdClass::__set_state(array(
+     'uname' => 'vicnetn.ren',
+     'age' => 27,
+     'desc' => '有点小狂战。。',
+  )),
+  1 => 
+  stdClass::__set_state(array(
+     'uname' => 'vicnetn.ren',
+     'age' => 27,
+     'desc' => '有点小狂战。。',
+  )),
+)
+[2019-04-29 04:09:36] [DEBUG] RpcClient同步调用: ExampleService->hello(1000) [耗时](0.002s) 
+[结果] 'ExampleService.hello..1000'
+[2019-04-29 04:09:36] [DEBUG] RpcClient同步调用: ExampleService->hello2(1000) [耗时](0.002s) 
+[结果] 'ExampleService.hello2..1000'
+[2019-04-29 04:09:37] [DEBUG] RpcClient同步调用: UserService->getInfoByUid(1000) [耗时](0.002s) 
+[结果] array (
+  0 => 
+  stdClass::__set_state(array(
+     'uname' => 'vicnetn.ren',
+     'age' => 27,
+     'desc' => '有点小狂战。。',
+  )),
+  1 => 
+  stdClass::__set_state(array(
+     'uname' => 'vicnetn.ren',
+     'age' => 27,
+     'desc' => '有点小狂战。。',
+  )),
+)
+[2019-04-29 04:09:37] [DEBUG] RpcClient同步调用: ExampleService->hello(1000) [耗时](0.002s) 
+[结果] 'ExampleService.hello..1000'
+[2019-04-29 04:09:37] [DEBUG] RpcClient同步调用: ExampleService->hello2(1000) [耗时](0.002s) 
+[结果] 'ExampleService.hello2..1000'
+[2019-04-29 04:09:50] [DEBUG] RpcClient同步调用: UserService->getInfoByUid(1000) [耗时](0.011s) 
+[结果] array (
+  0 => 
+  stdClass::__set_state(array(
+     'uname' => 'vicnetn.ren',
+     'age' => 27,
+     'desc' => '有点小狂战。。',
+  )),
+  1 => 
+  stdClass::__set_state(array(
+     'uname' => 'vicnetn.ren',
+     'age' => 27,
+     'desc' => '有点小狂战。。',
+  )),
+)
+[2019-04-29 04:09:50] [DEBUG] RpcClient同步调用: ExampleService->hello(1000) [耗时](0.011s) 
+[结果] 'ExampleService.hello..1000'
+[2019-04-29 04:09:50] [DEBUG] RpcClient同步调用: ExampleService->hello2(1000) [耗时](0.011s) 
+[结果] 'ExampleService.hello2..1000'
+[2019-04-29 04:09:51] [DEBUG] RpcClient同步调用: UserService->getInfoByUid(1000) [耗时](0.012s) 
+[结果] array (
+  0 => 
+  stdClass::__set_state(array(
+     'uname' => 'vicnetn.ren',
+     'age' => 27,
+     'desc' => '有点小狂战。。',
+  )),
+  1 => 
+  stdClass::__set_state(array(
+     'uname' => 'vicnetn.ren',
+     'age' => 27,
+     'desc' => '有点小狂战。。',
+  )),
+)
+[2019-04-29 04:09:52] [DEBUG] RpcClient同步调用: ExampleService->hello(1000) [耗时](0.011s) 
+[结果] 'ExampleService.hello..1000'
+[2019-04-29 04:09:52] [DEBUG] RpcClient同步调用: ExampleService->hello2(1000) [耗时](0.011s) 
+[结果] 'ExampleService.hello2..1000'
+[2019-04-29 04:09:52] [DEBUG] RpcClient同步调用: UserService->getInfoByUid(1000) [耗时](0.011s) 
+[结果] array (
+  0 => 
+  stdClass::__set_state(array(
+     'uname' => 'vicnetn.ren',
+     'age' => 27,
+     'desc' => '有点小狂战。。',
+  )),
+  1 => 
+  stdClass::__set_state(array(
+     'uname' => 'vicnetn.ren',
+     'age' => 27,
+     'desc' => '有点小狂战。。',
+  )),
+)
+[2019-04-29 04:09:52] [DEBUG] RpcClient同步调用: ExampleService->hello(1000) [耗时](0.011s) 
+[结果] 'ExampleService.hello..1000'
+[2019-04-29 04:09:55] [DEBUG] RpcClient同步调用: UserService->getInfoByUid(1000) [耗时](0.011s) 
+[结果] array (
+  0 => 
+  stdClass::__set_state(array(
+     'uname' => 'vicnetn.ren',
+     'age' => 27,
+     'desc' => '有点小狂战。。',
+  )),
+  1 => 
+  stdClass::__set_state(array(
+     'uname' => 'vicnetn.ren',
+     'age' => 27,
+     'desc' => '有点小狂战。。',
+  )),
+)
+[2019-04-29 04:09:55] [DEBUG] RpcClient同步调用: ExampleService->hello(1000) [耗时](0.011s) 
+[结果] 'ExampleService.hello..1000'
+[2019-04-29 04:09:55] [DEBUG] RpcClient同步调用: ExampleService->hello2(1000) [耗时](0.011s) 
+[结果] 'ExampleService.hello2..1000'
+[2019-04-29 04:09:57] [DEBUG] RpcClient同步调用: UserService->getInfoByUid(1000) [耗时](0.011s) 
+[结果] array (
+  0 => 
+  stdClass::__set_state(array(
+     'uname' => 'vicnetn.ren',
+     'age' => 27,
+     'desc' => '有点小狂战。。',
+  )),
+  1 => 
+  stdClass::__set_state(array(
+     'uname' => 'vicnetn.ren',
+     'age' => 27,
+     'desc' => '有点小狂战。。',
+  )),
+)
+[2019-04-29 04:09:57] [DEBUG] RpcClient同步调用: ExampleService->hello(1000) [耗时](0.011s) 
+[结果] 'ExampleService.hello..1000'
+[2019-04-29 04:09:57] [DEBUG] RpcClient同步调用: ExampleService->hello2(1000) [耗时](0.011s) 
+[结果] 'ExampleService.hello2..1000'
+[2019-04-29 04:09:58] [DEBUG] RpcClient同步调用: UserService->getInfoByUid(1000) [耗时](0.011s) 
+[结果] array (
+  0 => 
+  stdClass::__set_state(array(
+     'uname' => 'vicnetn.ren',
+     'age' => 27,
+     'desc' => '有点小狂战。。',
+  )),
+  1 => 
+  stdClass::__set_state(array(
+     'uname' => 'vicnetn.ren',
+     'age' => 27,
+     'desc' => '有点小狂战。。',
+  )),
+)
+[2019-04-29 04:09:58] [DEBUG] RpcClient同步调用: ExampleService->hello(1000) [耗时](0.011s) 
+[结果] 'ExampleService.hello..1000'
+[2019-04-29 04:09:58] [DEBUG] RpcClient同步调用: ExampleService->hello2(1000) [耗时](0.011s) 
+[结果] 'ExampleService.hello2..1000'
+[2019-04-29 04:09:59] [DEBUG] RpcClient同步调用: UserService->getInfoByUid(1000) [耗时](0.012s) 
+[结果] array (
+  0 => 
+  stdClass::__set_state(array(
+     'uname' => 'vicnetn.ren',
+     'age' => 27,
+     'desc' => '有点小狂战。。',
+  )),
+  1 => 
+  stdClass::__set_state(array(
+     'uname' => 'vicnetn.ren',
+     'age' => 27,
+     'desc' => '有点小狂战。。',
+  )),
+)
+[2019-04-29 04:09:59] [DEBUG] RpcClient同步调用: ExampleService->hello(1000) [耗时](0.011s) 
+[结果] 'ExampleService.hello..1000'
+[2019-04-29 04:09:59] [DEBUG] RpcClient同步调用: ExampleService->hello2(1000) [耗时](0.011s) 
+[结果] 'ExampleService.hello2..1000'
+[2019-04-29 04:10:00] [DEBUG] RpcClient同步调用: UserService->getInfoByUid(1000) [耗时](0.012s) 
+[结果] array (
+  0 => 
+  stdClass::__set_state(array(
+     'uname' => 'vicnetn.ren',
+     'age' => 27,
+     'desc' => '有点小狂战。。',
+  )),
+  1 => 
+  stdClass::__set_state(array(
+     'uname' => 'vicnetn.ren',
+     'age' => 27,
+     'desc' => '有点小狂战。。',
+  )),
+)
+[2019-04-29 04:10:00] [DEBUG] RpcClient同步调用: ExampleService->hello(1000) [耗时](0.011s) 
+[结果] 'ExampleService.hello..1000'
+[2019-04-29 04:10:00] [DEBUG] RpcClient同步调用: ExampleService->hello2(1000) [耗时](0.011s) 
+[结果] 'ExampleService.hello2..1000'
+[2019-04-29 04:10:00] [DEBUG] RpcClient同步调用: UserService->getInfoByUid(1000) [耗时](0.011s) 
+[结果] array (
+  0 => 
+  stdClass::__set_state(array(
+     'uname' => 'vicnetn.ren',
+     'age' => 27,
+     'desc' => '有点小狂战。。',
+  )),
+  1 => 
+  stdClass::__set_state(array(
+     'uname' => 'vicnetn.ren',
+     'age' => 27,
+     'desc' => '有点小狂战。。',
+  )),
+)
+[2019-04-29 04:10:00] [DEBUG] RpcClient同步调用: ExampleService->hello(1000) [耗时](0.011s) 
+[结果] 'ExampleService.hello..1000'
+[2019-04-29 04:10:01] [DEBUG] RpcClient同步调用: ExampleService->hello2(1000) [耗时](0.011s) 
+[结果] 'ExampleService.hello2..1000'
+[2019-04-29 04:10:01] [DEBUG] RpcClient同步调用: UserService->getInfoByUid(1000) [耗时](0.011s) 
+[结果] array (
+  0 => 
+  stdClass::__set_state(array(
+     'uname' => 'vicnetn.ren',
+     'age' => 27,
+     'desc' => '有点小狂战。。',
+  )),
+  1 => 
+  stdClass::__set_state(array(
+     'uname' => 'vicnetn.ren',
+     'age' => 27,
+     'desc' => '有点小狂战。。',
+  )),
+)
+[2019-04-29 04:10:01] [DEBUG] RpcClient同步调用: ExampleService->hello(1000) [耗时](0.012s) 
+[结果] 'ExampleService.hello..1000'
+[2019-04-29 04:10:01] [DEBUG] RpcClient同步调用: ExampleService->hello2(1000) [耗时](0.011s) 
+[结果] 'ExampleService.hello2..1000'
+[2019-04-29 04:10:02] [DEBUG] RpcClient同步调用: UserService->getInfoByUid(1000) [耗时](0.012s) 
+[结果] array (
+  0 => 
+  stdClass::__set_state(array(
+     'uname' => 'vicnetn.ren',
+     'age' => 27,
+     'desc' => '有点小狂战。。',
+  )),
+  1 => 
+  stdClass::__set_state(array(
+     'uname' => 'vicnetn.ren',
+     'age' => 27,
+     'desc' => '有点小狂战。。',
+  )),
+)
+[2019-04-29 04:10:02] [DEBUG] RpcClient同步调用: ExampleService->hello(1000) [耗时](0.011s) 
+[结果] 'ExampleService.hello..1000'
+[2019-04-29 04:10:02] [DEBUG] RpcClient同步调用: ExampleService->hello2(1000) [耗时](0.011s) 
+[结果] 'ExampleService.hello2..1000'
+[2019-04-29 04:10:02] [DEBUG] RpcClient同步调用: UserService->getInfoByUid(1000) [耗时](0.012s) 
+[结果] array (
+  0 => 
+  stdClass::__set_state(array(
+     'uname' => 'vicnetn.ren',
+     'age' => 27,
+     'desc' => '有点小狂战。。',
+  )),
+  1 => 
+  stdClass::__set_state(array(
+     'uname' => 'vicnetn.ren',
+     'age' => 27,
+     'desc' => '有点小狂战。。',
+  )),
+)
+[2019-04-29 04:10:02] [DEBUG] RpcClient同步调用: ExampleService->hello(1000) [耗时](0.011s) 
+[结果] 'ExampleService.hello..1000'
+[2019-04-29 04:10:02] [DEBUG] RpcClient同步调用: ExampleService->hello2(1000) [耗时](0.011s) 
+[结果] 'ExampleService.hello2..1000'
+[2019-04-29 04:10:03] [DEBUG] RpcClient同步调用: UserService->getInfoByUid(1000) [耗时](0.011s) 
+[结果] array (
+  0 => 
+  stdClass::__set_state(array(
+     'uname' => 'vicnetn.ren',
+     'age' => 27,
+     'desc' => '有点小狂战。。',
+  )),
+  1 => 
+  stdClass::__set_state(array(
+     'uname' => 'vicnetn.ren',
+     'age' => 27,
+     'desc' => '有点小狂战。。',
+  )),
+)
+[2019-04-29 04:10:03] [DEBUG] RpcClient同步调用: ExampleService->hello(1000) [耗时](0.011s) 
+[结果] 'ExampleService.hello..1000'
+[2019-04-29 04:10:03] [DEBUG] RpcClient同步调用: ExampleService->hello2(1000) [耗时](0.011s) 
+[结果] 'ExampleService.hello2..1000'
+[2019-04-29 04:10:04] [DEBUG] RpcClient同步调用: UserService->getInfoByUid(1000) [耗时](0.011s) 
+[结果] array (
+  0 => 
+  stdClass::__set_state(array(
+     'uname' => 'vicnetn.ren',
+     'age' => 27,
+     'desc' => '有点小狂战。。',
+  )),
+  1 => 
+  stdClass::__set_state(array(
+     'uname' => 'vicnetn.ren',
+     'age' => 27,
+     'desc' => '有点小狂战。。',
+  )),
+)
+[2019-04-29 04:10:04] [DEBUG] RpcClient同步调用: ExampleService->hello(1000) [耗时](0.011s) 
+[结果] 'ExampleService.hello..1000'
+[2019-04-29 04:10:04] [DEBUG] RpcClient同步调用: ExampleService->hello2(1000) [耗时](0.011s) 
+[结果] 'ExampleService.hello2..1000'
+[2019-04-29 04:10:04] [DEBUG] RpcClient同步调用: UserService->getInfoByUid(1000) [耗时](0.011s) 
+[结果] array (
+  0 => 
+  stdClass::__set_state(array(
+     'uname' => 'vicnetn.ren',
+     'age' => 27,
+     'desc' => '有点小狂战。。',
+  )),
+  1 => 
+  stdClass::__set_state(array(
+     'uname' => 'vicnetn.ren',
+     'age' => 27,
+     'desc' => '有点小狂战。。',
+  )),
+)
+[2019-04-29 04:10:04] [DEBUG] RpcClient同步调用: ExampleService->hello(1000) [耗时](0.011s) 
+[结果] 'ExampleService.hello..1000'
+[2019-04-29 04:10:04] [DEBUG] RpcClient同步调用: ExampleService->hello2(1000) [耗时](0.011s) 
+[结果] 'ExampleService.hello2..1000'
+[2019-04-29 04:10:05] [DEBUG] RpcClient同步调用: UserService->getInfoByUid(1000) [耗时](0.011s) 
+[结果] array (
+  0 => 
+  stdClass::__set_state(array(
+     'uname' => 'vicnetn.ren',
+     'age' => 27,
+     'desc' => '有点小狂战。。',
+  )),
+  1 => 
+  stdClass::__set_state(array(
+     'uname' => 'vicnetn.ren',
+     'age' => 27,
+     'desc' => '有点小狂战。。',
+  )),
+)
+[2019-04-29 04:10:05] [DEBUG] RpcClient同步调用: ExampleService->hello(1000) [耗时](0.011s) 
+[结果] 'ExampleService.hello..1000'
+[2019-04-29 04:10:05] [DEBUG] RpcClient同步调用: ExampleService->hello2(1000) [耗时](0.012s) 
+[结果] 'ExampleService.hello2..1000'
+[2019-04-29 04:10:06] [DEBUG] RpcClient同步调用: UserService->getInfoByUid(1000) [耗时](0.011s) 
+[结果] array (
+  0 => 
+  stdClass::__set_state(array(
+     'uname' => 'vicnetn.ren',
+     'age' => 27,
+     'desc' => '有点小狂战。。',
+  )),
+  1 => 
+  stdClass::__set_state(array(
+     'uname' => 'vicnetn.ren',
+     'age' => 27,
+     'desc' => '有点小狂战。。',
+  )),
+)
+[2019-04-29 04:10:06] [DEBUG] RpcClient同步调用: ExampleService->hello(1000) [耗时](0.012s) 
+[结果] 'ExampleService.hello..1000'
+[2019-04-29 04:10:06] [DEBUG] RpcClient同步调用: ExampleService->hello2(1000) [耗时](0.011s) 
+[结果] 'ExampleService.hello2..1000'
+[2019-04-29 04:10:09] [DEBUG] RpcClient同步调用: UserService->getInfoByUid(1000) [耗时](0.012s) 
+[结果] array (
+  0 => 
+  stdClass::__set_state(array(
+     'uname' => 'vicnetn.ren',
+     'age' => 27,
+     'desc' => '有点小狂战。。',
+  )),
+  1 => 
+  stdClass::__set_state(array(
+     'uname' => 'vicnetn.ren',
+     'age' => 27,
+     'desc' => '有点小狂战。。',
+  )),
+)
+[2019-04-29 04:10:09] [DEBUG] RpcClient同步调用: ExampleService->hello(1000) [耗时](0.011s) 
+[结果] 'ExampleService.hello..1000'
+[2019-04-29 04:10:09] [DEBUG] RpcClient同步调用: ExampleService->hello2(1000) [耗时](0.012s) 
+[结果] 'ExampleService.hello2..1000'
+[2019-04-29 04:12:28] [DEBUG] RpcClient同步调用: UserService->getInfoByUid(1000) [耗时](0.011s) 
+[结果] array (
+  0 => 
+  stdClass::__set_state(array(
+     'uname' => 'vicnetn.ren',
+     'age' => 27,
+     'desc' => '有点小狂战。。',
+  )),
+  1 => 
+  stdClass::__set_state(array(
+     'uname' => 'vicnetn.ren',
+     'age' => 27,
+     'desc' => '有点小狂战。。',
+  )),
+)
+[2019-04-29 04:12:28] [DEBUG] RpcClient同步调用: ExampleService->hello(1000) [耗时](0.011s) 
+[结果] 'ExampleService.hello..1000'
+[2019-04-29 04:12:28] [DEBUG] RpcClient同步调用: ExampleService->hello2(1000) [耗时](0.011s) 
+[结果] 'ExampleService.hello2..1000'

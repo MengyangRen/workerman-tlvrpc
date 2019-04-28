@@ -110,3 +110,144 @@ Stack trace:
 2019-04-29 00:30:32 pid:1804 Workerman[start.php] stopping ...
 2019-04-29 00:30:32 pid:1804 Workerman[start.php] has been stopped
 2019-04-29 00:30:33 pid:1814 Workerman[start.php] start in DEBUG mode
+2019-04-29 03:56:55 pid:1814 Workerman[start.php] stopping ...
+2019-04-29 03:56:55 pid:1814 Workerman[start.php] has been stopped
+2019-04-29 03:56:59 pid:1879 Workerman[start.php] start in DAEMON mode
+2019-04-29 04:01:02 pid:1927 Workerman[start.php] stop 
+2019-04-29 04:01:02 pid:1927 Workerman[start.php] is stopping ...
+2019-04-29 04:01:02 pid:1881 Workerman[start.php] stopping ...
+2019-04-29 04:01:02 pid:1881 Workerman[start.php] has been stopped
+2019-04-29 04:01:02 pid:1927 Workerman[start.php] stop success
+2019-04-29 04:01:05 pid:1928 Workerman[start.php] start in DEBUG mode
+2019-04-29 04:01:55 pid:1928 Workerman[start.php] stopping ...
+2019-04-29 04:01:55 pid:1928 Workerman[start.php] has been stopped
+2019-04-29 04:01:56 pid:1933 Workerman[start.php] start in DEBUG mode
+2019-04-29 04:03:52 pid:1933 Workerman[start.php] stopping ...
+2019-04-29 04:03:52 pid:1933 Workerman[start.php] has been stopped
+2019-04-29 04:03:53 pid:1940 Workerman[start.php] start in DEBUG mode
+2019-04-29 04:03:55 pid:1941 Worker[1941] process terminated
+2019-04-29 04:04:26 pid:1945 Worker[1945] process terminated
+2019-04-29 04:04:29 pid:1940 Workerman[start.php] stopping ...
+2019-04-29 04:04:29 pid:1940 Workerman[start.php] has been stopped
+2019-04-29 04:04:30 pid:1948 Workerman[start.php] start in DEBUG mode
+2019-04-29 04:04:33 pid:1951 Worker[1951] process terminated
+2019-04-29 04:04:49 pid:1953 Worker[1953] process terminated
+2019-04-29 04:05:15 pid:1955 Worker[1955] process terminated
+2019-04-29 04:06:09 pid:1957 Worker[1957] process terminated
+2019-04-29 04:06:12 pid:1948 Workerman[start.php] stopping ...
+2019-04-29 04:06:12 pid:1948 Workerman[start.php] has been stopped
+2019-04-29 04:06:15 pid:1961 Workerman[start.php] start in DEBUG mode
+2019-04-29 04:06:59 pid:1961 Workerman[start.php] stopping ...
+2019-04-29 04:06:59 pid:1961 Workerman[start.php] has been stopped
+2019-04-29 04:07:03 pid:1970 Workerman[start.php] start in DEBUG mode
+2019-04-29 04:07:15 pid:1970 Workerman[start.php] stopping ...
+2019-04-29 04:07:15 pid:1970 Workerman[start.php] has been stopped
+2019-04-29 04:07:19 pid:1985 Workerman[start.php] start in DAEMON mode
+2019-04-29 04:07:38 pid:2013 Workerman[start.php] start in DAEMON mode
+2019-04-29 04:07:38 pid:2013 Workerman[start.php] already running
+2019-04-29 04:07:44 pid:2014 Workerman[start.php] stop 
+2019-04-29 04:07:44 pid:2014 Workerman[start.php] is stopping ...
+2019-04-29 04:07:44 pid:1987 Workerman[start.php] stopping ...
+2019-04-29 04:07:44 pid:1987 Workerman[start.php] has been stopped
+2019-04-29 04:07:44 pid:2014 Workerman[start.php] stop success
+2019-04-29 04:08:02 pid:2017 Workerman[start.php] start in DEBUG mode
+2019-04-29 04:08:19 pid:2017 Workerman[start.php] stopping ...
+2019-04-29 04:08:19 pid:2017 Workerman[start.php] has been stopped
+2019-04-29 04:08:25 pid:2025 Workerman[start.php] start in DEBUG mode
+2019-04-29 04:09:00 pid:2025 Workerman[start.php] stopping ...
+2019-04-29 04:09:00 pid:2025 Workerman[start.php] has been stopped
+2019-04-29 04:09:01 pid:2031 Workerman[start.php] start in DEBUG mode
+2019-04-29 04:10:12 pid:2031 Workerman[start.php] stopping ...
+2019-04-29 04:10:12 pid:2031 Workerman[start.php] has been stopped
+2019-04-29 04:10:13 pid:2058 Workerman[start.php] start in DEBUG mode
+2019-04-29 04:11:02 pid:2058 Workerman[start.php] stopping ...
+2019-04-29 04:11:02 pid:2058 Workerman[start.php] has been stopped
+2019-04-29 04:11:03 pid:2063 Workerman[start.php] start in DEBUG mode
+2019-04-29 04:11:05 pid:2066 Error: Call to undefined function unsleep() in /workspace-0nt1/tcp/workman.dev/workerman/workerman-tlvrpc/Applications/TlvRpc/start.php:43
+Stack trace:
+#0 [internal function]: {closure}(Object(Workerman\Connection\TcpConnection), Object(stdClass))
+#1 /workspace-0nt1/tcp/workman.dev/workerman/workerman-tlvrpc/vendor/workerman/workerman/Connection/TcpConnection.php(658): call_user_func(Object(Closure), Object(Workerman\Connection\TcpConnection), Object(stdClass))
+#2 [internal function]: Workerman\Connection\TcpConnection->baseRead(Resource id #29, 2, Resource id #29)
+#3 /workspace-0nt1/tcp/workman.dev/workerman/workerman-tlvrpc/vendor/workerman/workerman/Events/Event.php(195): EventBase->loop()
+#4 /workspace-0nt1/tcp/workman.dev/workerman/workerman-tlvrpc/vendor/workerman/workerman/Worker.php(2321): Workerman\Events\Event->loop()
+#5 /workspace-0nt1/tcp/workman.dev/workerman/workerman-tlvrpc/vendor/workerman/workerman/Worker.php(1452): Workerman\Worker->run()
+#6 /workspace-0nt1/tcp/workman.dev/workerman/workerman-tlvrpc/vendor/workerman/workerman/Worker.php(1282): Workerman\Worker::forkOneWorkerForLinux(Object(Workerman\Worker))
+#7 /workspace-0nt1/tcp/workman.dev/workerman/workerman-tlvrpc/vendor/workerman/workerman/Worker.php(1256): Workerman\Worker::forkWorkersForLinux()
+#8 /workspace-0nt1/tcp/workman.dev/workerman/workerman-tlvrpc/vendor/workerman/workerman/Worker.php(507): Workerman\Worker::forkWorkers()
+#9 /workspace-0nt1/tcp/workman.dev/workerman/workerman-tlvrpc/start.php(32): Workerman\Worker::runAll()
+#10 {main}
+2019-04-29 04:11:05 pid:2066 Worker[2066] process terminated
+2019-04-29 04:11:05 pid:2063 worker[TlvRpc:2066] exit with status 64000
+2019-04-29 04:11:24 pid:2063 Workerman[start.php] stopping ...
+2019-04-29 04:11:24 pid:2063 Workerman[start.php] has been stopped
+2019-04-29 04:11:25 pid:2069 Workerman[start.php] start in DEBUG mode
+2019-04-29 04:12:21 pid:2069 Workerman[start.php] stopping ...
+2019-04-29 04:12:21 pid:2069 Workerman[start.php] has been stopped
+2019-04-29 04:12:24 pid:2078 Workerman[start.php] start in DEBUG mode
+2019-04-29 04:13:22 pid:2078 Workerman[start.php] stopping ...
+2019-04-29 04:13:22 pid:2078 Workerman[start.php] has been stopped
+2019-04-29 04:13:25 pid:2095 Workerman[start.php] start in DAEMON mode
+2019-04-29 04:14:38 pid:2144 Workerman[start.php] start in DAEMON mode
+2019-04-29 04:14:38 pid:2144 Workerman[start.php] already running
+2019-04-29 04:14:45 pid:2145 Workerman[start.php] restart 
+2019-04-29 04:14:45 pid:2145 Workerman[start.php] is stopping ...
+2019-04-29 04:14:45 pid:2097 Workerman[start.php] stopping ...
+2019-04-29 04:14:45 pid:2097 Workerman[start.php] has been stopped
+2019-04-29 04:14:45 pid:2145 Workerman[start.php] stop success
+2019-04-29 04:16:26 pid:2145 Workerman[start.php] stopping ...
+2019-04-29 04:16:26 pid:2145 Workerman[start.php] has been stopped
+2019-04-29 04:17:40 pid:2189 Workerman[start.php] start in DEBUG mode
+2019-04-29 04:18:06 pid:2189 Workerman[start.php] stopping ...
+2019-04-29 04:18:06 pid:2189 Workerman[start.php] has been stopped
+2019-04-29 04:18:07 pid:2199 Workerman[start.php] start in DEBUG mode
+2019-04-29 04:18:19 pid:2199 Workerman[start.php] stopping ...
+2019-04-29 04:18:19 pid:2199 Workerman[start.php] has been stopped
+2019-04-29 04:18:20 pid:2207 Workerman[start.php] start in DEBUG mode
+2019-04-29 04:18:43 pid:2207 Workerman[start.php] stopping ...
+2019-04-29 04:18:43 pid:2207 Workerman[start.php] has been stopped
+2019-04-29 04:18:44 pid:2213 Workerman[start.php] start in DEBUG mode
+2019-04-29 04:19:19 pid:2213 Workerman[start.php] stopping ...
+2019-04-29 04:19:19 pid:2213 Workerman[start.php] has been stopped
+2019-04-29 04:19:20 pid:2219 Workerman[start.php] start in DEBUG mode
+2019-04-29 04:21:16 pid:2219 Workerman[start.php] stopping ...
+2019-04-29 04:21:16 pid:2219 Workerman[start.php] has been stopped
+2019-04-29 04:21:18 pid:2235 Workerman[start.php] start in DEBUG mode
+2019-04-29 04:22:21 pid:2235 Workerman[start.php] stopping ...
+2019-04-29 04:22:21 pid:2235 Workerman[start.php] has been stopped
+2019-04-29 04:22:22 pid:2240 Workerman[start.php] start in DEBUG mode
+2019-04-29 04:24:33 pid:2240 Workerman[start.php] stopping ...
+2019-04-29 04:24:34 pid:2240 Workerman[start.php] has been stopped
+2019-04-29 04:24:34 pid:2254 Workerman[start.php] start in DEBUG mode
+2019-04-29 04:31:27 pid:2254 Workerman[start.php] stopping ...
+2019-04-29 04:31:27 pid:2254 Workerman[start.php] has been stopped
+2019-04-29 04:31:36 pid:2259 Workerman[start.php] start in DEBUG mode
+2019-04-29 04:35:27 pid:2259 Workerman[start.php] stopping ...
+2019-04-29 04:35:27 pid:2259 Workerman[start.php] has been stopped
+2019-04-29 04:35:28 pid:2265 Workerman[start.php] start in DEBUG mode
+2019-04-29 04:35:44 pid:2265 Workerman[start.php] stopping ...
+2019-04-29 04:35:44 pid:2265 Workerman[start.php] has been stopped
+2019-04-29 04:35:49 pid:2284 Workerman[start.php] start in DEBUG mode
+2019-04-29 04:38:35 pid:2284 Workerman[start.php] stopping ...
+2019-04-29 04:38:35 pid:2284 Workerman[start.php] has been stopped
+2019-04-29 04:41:30 pid:2297 Workerman[start.php] start in DEBUG mode
+2019-04-29 04:41:40 pid:2298 Workerman[start.php] stop 
+2019-04-29 04:41:40 pid:2298 Workerman[start.php] not run
+2019-04-29 04:42:11 pid:2299 Workerman[start.php] stop 
+2019-04-29 04:42:11 pid:2299 Workerman[start.php] not run
+2019-04-29 04:42:40 pid:2300 Workerman[start.php] stop 
+2019-04-29 04:42:40 pid:2300 Workerman[start.php] not run
+2019-04-29 04:42:44 pid:2301 Workerman[start.php] start in DEBUG mode
+2019-04-29 04:43:22 pid:2303 Workerman[start.php] start in DEBUG mode
+2019-04-29 04:45:00 pid:2304 Workerman[start.php] start in DEBUG mode
+2019-04-29 04:45:49 pid:2304 Workerman[start.php] stopping ...
+2019-04-29 04:45:49 pid:2304 Workerman[start.php] has been stopped
+2019-04-29 04:45:50 pid:2316 Workerman[start.php] start in DEBUG mode
+2019-04-29 04:48:58 pid:2316 Workerman[start.php] stopping ...
+2019-04-29 04:48:58 pid:2316 Workerman[start.php] has been stopped
+2019-04-29 04:49:00 pid:2326 Workerman[start.php] start in DEBUG mode
+2019-04-29 04:49:32 pid:2326 Workerman[start.php] stopping ...
+2019-04-29 04:49:32 pid:2326 Workerman[start.php] has been stopped
+2019-04-29 04:50:08 pid:2349 Workerman[start.php] start in DEBUG mode
+2019-04-29 04:50:10 pid:2349 Workerman[start.php] stopping ...
+2019-04-29 04:50:10 pid:2349 Workerman[start.php] has been stopped
+2019-04-29 04:50:12 pid:2357 Workerman[start.php] start in DAEMON mode

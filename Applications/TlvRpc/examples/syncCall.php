@@ -13,7 +13,7 @@
 
 define ('DEV', 1);
 define ('TEST',2);
-define ('ENV',TEST);
+define ('ENV',DEV);
 date_default_timezone_set('Asia/Shanghai');
 define('RPC_LOG_PATH',dirname(__FILE__) .'/logs');
 require_once dirname(__FILE__) .DIRECTORY_SEPARATOR.'../clients/Client.php';

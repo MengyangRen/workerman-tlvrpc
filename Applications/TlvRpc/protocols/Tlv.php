@@ -125,7 +125,7 @@ class TlvFactory {
        $this->tag = bin2hex(pack('n',$this->source['tag']));
 	   $this->length = bin2hex(pack('N',strlen($this->source['body'])));
 	   $this->body = pack('a*',$this->source['body']);
-	   return $this->tag.$this->length.$this->body;
+	   return $this->tag.$this->length.$this->body."\n";
     }
     
     public function splitFileds($bin,array $fieldLengthes) {
