@@ -12,10 +12,11 @@
  */
 
 define ('DEV', 1);
-define('ENV', DEV);
+define ('TEST',2);
+define ('ENV',TEST);
 date_default_timezone_set('Asia/Shanghai');
+define('RPC_LOG_PATH',dirname(__FILE__) .'/logs');
 require_once dirname(__FILE__) .DIRECTORY_SEPARATOR.'../clients/Client.php';
-
 try {
 
 	Clients\RpcClient::config(new Clients\RpcConfig);

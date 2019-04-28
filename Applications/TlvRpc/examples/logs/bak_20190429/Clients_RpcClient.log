@@ -1,0 +1,19 @@
+[2019-04-29 02:53:19] [DEBUG] RpcClient同步调用: UserService->getInfoByUid(1000) [耗时](0.001s) 
+[结果] array (
+  0 => 
+  stdClass::__set_state(array(
+     'uname' => 'vicnetn.ren',
+     'age' => 27,
+     'desc' => '有点小狂战。。',
+  )),
+  1 => 
+  stdClass::__set_state(array(
+     'uname' => 'vicnetn.ren',
+     'age' => 27,
+     'desc' => '有点小狂战。。',
+  )),
+)
+[2019-04-29 02:53:19] [DEBUG] RpcClient同步调用: ExampleService->hello(1000) [耗时](0.001s) 
+[结果] 'ExampleService.hello..1000'
+[2019-04-29 02:53:20] [DEBUG] RpcClient同步调用: ExampleService->hello2(1000) [耗时](0.001s) 
+[结果] 'ExampleService.hello2..1000'
