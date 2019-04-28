@@ -1,28 +1,24 @@
 # workerman-tlvrpc
 
-## 协议说明
-##结构:
-
+### 协议说明
+### 结构:
 >  协议结构 {
      Tag (命令)
      Len (长度)
      Body (内容)
 }
- 
-##例子:
-
+### 例子:
      03e8
      0000010b
-     {"method":["ExampleService","hello"],"params":[1000],"version":null,"user":"test","password":"7e04d8576a59833a1dd9e04ad7a27c23","timestamp":1556129969.776097,"secret":"xx","signature":"xx","traceId":1}
+     {"method":["ExampleService","hello"],"params":[1000],"version":null,"user:test,traceId":1.....}
 
 
-## 环境需求
+### 环境需求
 * \>= PHP 7
-* A POSIX compatible operating system (Linux, OSX, BSD)  
-* evnent extensions for PHP  
+* event extensions for PHP  
 * sysvshm extensions for PHP  
 
-## tlvRPC客户端支持
+### 客户端支持
  * 1.支持同步调用
  * 2.支持异步调用
  * 3.支持混合调用
@@ -32,7 +28,7 @@
  * 7.日志追踪
 
 
-## 同步调用
+### 同步调用
 ```PHP
     try {
         
@@ -49,7 +45,7 @@
 
 ```
 ![demo1](https://github.com/MengyangRen/workerman-tlvrpc/blob/master/img/syncCall.png)
-## 异步调用
+### 异步调用
 ```PHP
 
     try {
@@ -68,7 +64,7 @@
     }
 ```
 ![demo2](https://github.com/MengyangRen/workerman-tlvrpc/blob/master/img/asyncCall.png)
-## 混合调用
+### 混合调用
 ```PHP
 
     try {
@@ -101,7 +97,7 @@
 ```
 ![demo3](https://github.com/MengyangRen/workerman-tlvrpc/blob/master/img/minCall.png)
 
-## 负载均衡与权重设置
+### 负载均衡与权重设置
 
 ```PHP
     try {
