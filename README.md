@@ -22,7 +22,6 @@
 * \>= PHP 7
 * event extensions for PHP  
 * sysvshm extensions for PHP  
-
 ### TLV客户端支持
  * 1.支持同步调用
  * 2.支持异步调用
