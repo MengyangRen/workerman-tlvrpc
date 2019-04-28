@@ -1,0 +1,112 @@
+2019-03-31 20:31:06 pid:522 Workerman[start.php] start in DEBUG mode
+2019-03-31 21:27:49 pid:522 Workerman[start.php] stopping ...
+2019-03-31 21:27:49 pid:522 Workerman[start.php] has been stopped
+2019-03-31 21:38:29 pid:682 Workerman[start.php] start in DEBUG mode
+2019-04-01 03:17:38 pid:682 Workerman[start.php] stopping ...
+2019-04-01 03:17:39 pid:682 Workerman[start.php] has been stopped
+2019-04-04 18:49:50 pid:12155 Workerman[start.php] start in DEBUG mode
+2019-04-04 18:49:52 pid:12155 Workerman[start.php] stopping ...
+2019-04-04 18:49:52 pid:12155 Workerman[start.php] has been stopped
+2019-04-04 18:49:55 pid:12177 Workerman[start.php] start in DAEMON mode
+2019-04-04 18:50:07 pid:12201 Workerman[start.php] status 
+2019-04-04 18:51:03 pid:12203 Workerman[start.php] stop 
+2019-04-04 18:51:03 pid:12203 Workerman[start.php] is stopping ...
+2019-04-04 18:51:03 pid:12180 Workerman[start.php] stopping ...
+2019-04-04 18:51:03 pid:12180 Workerman[start.php] has been stopped
+2019-04-04 18:51:03 pid:12203 Workerman[start.php] stop success
+2019-04-04 18:51:46 pid:12207 Workerman[start.php] start in DAEMON mode
+2019-04-04 18:51:55 pid:12220 Workerman[start.php] status 
+2019-04-04 19:24:51 pid:12222 Workerman[start.php] stop 
+2019-04-04 19:24:51 pid:12222 Workerman[start.php] is stopping ...
+2019-04-04 19:24:51 pid:12210 Workerman[start.php] stopping ...
+2019-04-04 19:24:51 pid:12210 Workerman[start.php] has been stopped
+2019-04-04 19:24:51 pid:12222 Workerman[start.php] stop success
+2019-04-28 22:26:19 pid:1613 Workerman[start.php] start in DEBUG mode
+2019-04-28 22:26:48 pid:1614 Workerman[start.php] start in DEBUG mode
+2019-04-28 22:27:20 pid:1615 Workerman[start.php] start in DEBUG mode
+2019-04-28 22:28:23 pid:1616 Workerman[start.php] start in DEBUG mode
+2019-04-28 22:28:31 pid:1616 Workerman[start.php] stopping ...
+2019-04-28 22:28:31 pid:1616 Workerman[start.php] has been stopped
+2019-04-28 22:28:39 pid:1625 Workerman[start.php] start in DEBUG mode
+2019-04-28 22:38:06 pid:1625 Workerman[start.php] stopping ...
+2019-04-28 22:38:06 pid:1625 Workerman[start.php] has been stopped
+2019-04-28 23:13:20 pid:1638 Workerman[start.php] start in DEBUG mode
+2019-04-28 23:21:32 pid:1638 Workerman[start.php] stopping ...
+2019-04-28 23:21:32 pid:1638 Workerman[start.php] has been stopped
+2019-04-28 23:23:56 pid:1668 Workerman[start.php] start in DEBUG mode
+2019-04-28 23:24:49 pid:1668 Workerman[start.php] stopping ...
+2019-04-28 23:24:49 pid:1668 Workerman[start.php] has been stopped
+2019-04-28 23:24:50 pid:1678 Workerman[start.php] start in DEBUG mode
+2019-04-28 23:25:20 pid:1685 Worker[1685] process terminated
+2019-04-28 23:26:12 pid:1678 Workerman[start.php] stopping ...
+2019-04-28 23:26:12 pid:1678 Workerman[start.php] has been stopped
+2019-04-28 23:26:13 pid:1689 Workerman[start.php] start in DEBUG mode
+2019-04-28 23:28:09 pid:1689 Workerman[start.php] stopping ...
+2019-04-28 23:28:09 pid:1689 Workerman[start.php] has been stopped
+2019-04-28 23:28:10 pid:1698 Workerman[start.php] start in DEBUG mode
+2019-04-28 23:29:27 pid:1698 Workerman[start.php] stopping ...
+2019-04-28 23:29:27 pid:1698 Workerman[start.php] has been stopped
+2019-04-28 23:29:28 pid:1707 Workerman[start.php] start in DEBUG mode
+2019-04-28 23:29:57 pid:1707 Workerman[start.php] stopping ...
+2019-04-28 23:29:58 pid:1707 Workerman[start.php] has been stopped
+2019-04-28 23:29:58 pid:1716 Workerman[start.php] start in DEBUG mode
+2019-04-28 23:31:03 pid:1716 Workerman[start.php] stopping ...
+2019-04-28 23:31:03 pid:1716 Workerman[start.php] has been stopped
+2019-04-28 23:31:04 pid:1725 Workerman[start.php] start in DEBUG mode
+2019-04-28 23:31:47 pid:1725 Workerman[start.php] stopping ...
+2019-04-28 23:31:47 pid:1725 Workerman[start.php] has been stopped
+2019-04-28 23:31:48 pid:1734 Workerman[start.php] start in DEBUG mode
+2019-04-28 23:34:16 pid:1734 Workerman[start.php] stopping ...
+2019-04-28 23:34:16 pid:1734 Workerman[start.php] has been stopped
+2019-04-28 23:34:17 pid:1743 Workerman[start.php] start in DEBUG mode
+2019-04-28 23:52:15 pid:1743 Workerman[start.php] stopping ...
+2019-04-28 23:52:15 pid:1743 Workerman[start.php] has been stopped
+2019-04-28 23:58:28 pid:1757 Workerman[start.php] start in DEBUG mode
+2019-04-28 23:58:47 pid:1764 Error: Cannot use object of type stdClass as array in /workspace-0nt1/tcp/workman.dev/workerman/workerman-tlvrpc/Applications/TlvRpc/start.php:38
+Stack trace:
+#0 [internal function]: {closure}(Object(Workerman\Connection\TcpConnection), Object(stdClass))
+#1 /workspace-0nt1/tcp/workman.dev/workerman/workerman-tlvrpc/vendor/workerman/workerman/Connection/TcpConnection.php(658): call_user_func(Object(Closure), Object(Workerman\Connection\TcpConnection), Object(stdClass))
+#2 [internal function]: Workerman\Connection\TcpConnection->baseRead(Resource id #48, 2, Resource id #48)
+#3 /workspace-0nt1/tcp/workman.dev/workerman/workerman-tlvrpc/vendor/workerman/workerman/Events/Event.php(195): EventBase->loop()
+#4 /workspace-0nt1/tcp/workman.dev/workerman/workerman-tlvrpc/vendor/workerman/workerman/Worker.php(2321): Workerman\Events\Event->loop()
+#5 /workspace-0nt1/tcp/workman.dev/workerman/workerman-tlvrpc/vendor/workerman/workerman/Worker.php(1452): Workerman\Worker->run()
+#6 /workspace-0nt1/tcp/workman.dev/workerman/workerman-tlvrpc/vendor/workerman/workerman/Worker.php(1282): Workerman\Worker::forkOneWorkerForLinux(Object(Workerman\Worker))
+#7 /workspace-0nt1/tcp/workman.dev/workerman/workerman-tlvrpc/vendor/workerman/workerman/Worker.php(1256): Workerman\Worker::forkWorkersForLinux()
+#8 /workspace-0nt1/tcp/workman.dev/workerman/workerman-tlvrpc/vendor/workerman/workerman/Worker.php(507): Workerman\Worker::forkWorkers()
+#9 /workspace-0nt1/tcp/workman.dev/workerman/workerman-tlvrpc/start.php(32): Workerman\Worker::runAll()
+#10 {main}
+2019-04-28 23:58:47 pid:1764 Worker[1764] process terminated
+2019-04-28 23:58:47 pid:1757 worker[TlvRpc:1764] exit with status 64000
+2019-04-29 00:00:05 pid:1757 Workerman[start.php] stopping ...
+2019-04-29 00:00:05 pid:1757 Workerman[start.php] has been stopped
+2019-04-29 00:00:06 pid:1767 Workerman[start.php] start in DEBUG mode
+2019-04-29 00:00:41 pid:1767 Workerman[start.php] stopping ...
+2019-04-29 00:00:41 pid:1767 Workerman[start.php] has been stopped
+2019-04-29 00:00:42 pid:1776 Workerman[start.php] start in DEBUG mode
+2019-04-29 00:01:50 pid:1776 Workerman[start.php] stopping ...
+2019-04-29 00:01:50 pid:1776 Workerman[start.php] has been stopped
+2019-04-29 00:02:13 pid:1785 Workerman[start.php] start in DEBUG mode
+2019-04-29 00:02:52 pid:1785 Workerman[start.php] stopping ...
+2019-04-29 00:02:52 pid:1785 Workerman[start.php] has been stopped
+2019-04-29 00:02:53 pid:1794 Workerman[start.php] start in DEBUG mode
+2019-04-29 00:27:00 pid:1794 Workerman[start.php] stopping ...
+2019-04-29 00:27:00 pid:1794 Workerman[start.php] has been stopped
+2019-04-29 00:27:59 pid:1804 Workerman[start.php] start in DEBUG mode
+2019-04-29 00:28:02 pid:1810 Error: Class 'TLV' not found in /workspace-0nt1/tcp/workman.dev/workerman/workerman-tlvrpc/Applications/TlvRpc/start.php:45
+Stack trace:
+#0 [internal function]: {closure}(Object(Workerman\Connection\TcpConnection), Object(stdClass))
+#1 /workspace-0nt1/tcp/workman.dev/workerman/workerman-tlvrpc/vendor/workerman/workerman/Connection/TcpConnection.php(658): call_user_func(Object(Closure), Object(Workerman\Connection\TcpConnection), Object(stdClass))
+#2 [internal function]: Workerman\Connection\TcpConnection->baseRead(Resource id #48, 2, Resource id #48)
+#3 /workspace-0nt1/tcp/workman.dev/workerman/workerman-tlvrpc/vendor/workerman/workerman/Events/Event.php(195): EventBase->loop()
+#4 /workspace-0nt1/tcp/workman.dev/workerman/workerman-tlvrpc/vendor/workerman/workerman/Worker.php(2321): Workerman\Events\Event->loop()
+#5 /workspace-0nt1/tcp/workman.dev/workerman/workerman-tlvrpc/vendor/workerman/workerman/Worker.php(1452): Workerman\Worker->run()
+#6 /workspace-0nt1/tcp/workman.dev/workerman/workerman-tlvrpc/vendor/workerman/workerman/Worker.php(1282): Workerman\Worker::forkOneWorkerForLinux(Object(Workerman\Worker))
+#7 /workspace-0nt1/tcp/workman.dev/workerman/workerman-tlvrpc/vendor/workerman/workerman/Worker.php(1256): Workerman\Worker::forkWorkersForLinux()
+#8 /workspace-0nt1/tcp/workman.dev/workerman/workerman-tlvrpc/vendor/workerman/workerman/Worker.php(507): Workerman\Worker::forkWorkers()
+#9 /workspace-0nt1/tcp/workman.dev/workerman/workerman-tlvrpc/start.php(32): Workerman\Worker::runAll()
+#10 {main}
+2019-04-29 00:28:02 pid:1810 Worker[1810] process terminated
+2019-04-29 00:28:02 pid:1804 worker[TlvRpc:1810] exit with status 64000
+2019-04-29 00:30:32 pid:1804 Workerman[start.php] stopping ...
+2019-04-29 00:30:32 pid:1804 Workerman[start.php] has been stopped
+2019-04-29 00:30:33 pid:1814 Workerman[start.php] start in DEBUG mode

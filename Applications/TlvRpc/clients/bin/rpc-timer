@@ -1,0 +1,51 @@
+#!/usr/bin/php 
+<?php
+class RpcUriTimer {
+	public $base;
+	public function __construct() {
+		$this->base = new EventBase();
+	} 
+	public function add($callback) {
+		 $event = new Event($this->base, -1, Event::TIMEOUT,$callback);
+		 $event->data = $event;
+		 $event->addTimer(1);
+		 return $this;
+	}
+	public function loop() {
+		$this->base->loop();
+	}
+}
+
+class Uri {
+    public function getshm() {
+    	print 'getshm'.PHP_EOL;
+    }
+    public function ping() {
+		print 'ping'.PHP_EOL;
+    }
+    public function rmShm() {
+    	print "rmshm".PHP_EOL;
+    } 
+	public function check($fd, $what, $e) {
+	     $this->getshm();
+	     $this->ping();
+	     $this->rmShm();
+		print "check..";
+		$e->addTimer(1);
+	}
+}
+
+error_reporting(0);
+$file = basename(__FILE__);
+
+if (!empty($argv[1]) && $argv[1] == 'kill') {
+	exec("ps -ef | grep ".basename(__FILE__)." | awk '{print $2;}'", $out1); 
+	foreach ($out as $pid) 
+		posix_kill($pid, SIGINT);  
+}
+
+if (!empty($argv[1]) && $argv[1] == 'check') {
+	exec("ps -ef | grep {$file} | grep -v grep | grep -v sh", $out); // cron will have 'sh -c'
+	if (count($out) > 1 ) exit; 
+	(new RpcTimer)->add(array(new Uri,'check'))->loop();  // 1s checking..
+}
