@@ -48,7 +48,7 @@
     }
 
 ```
-![demo1](https://github.com/MengyangRen/workerman-tlvrpc/img/syncCall.png)
+![demo1](https://github.com/MengyangRen/workerman-tlvrpc/blob/master/img/syncCall.png)
 ## 异步调用
 ```PHP
 
@@ -67,7 +67,7 @@
         printf("异常信息 %s \r\n",$e->getMessage());
     }
 ```
-![demo2](https://github.com/MengyangRen/workerman-tlvrpc/img/asyncCall.png)
+![demo2](https://github.com/MengyangRen/workerman-tlvrpc/blob/master/img/asyncCall.png)
 ## 混合调用
 ```PHP
 
@@ -99,7 +99,7 @@
     }
 
 ```
-![demo3](https://github.com/MengyangRen/workerman-tlvrpc/img/minCall.png)
+![demo3](https://github.com/MengyangRen/workerman-tlvrpc/blob/master/img/minCall.png)
 
 ## 负载均衡与权重设置
 
@@ -124,5 +124,5 @@
         printf("异常信息 %s \r\n",$e->getMessage());
     }
 ```
-![demo4](https://github.com/MengyangRen/workerman-tlvrpc/img/loadlevel.png)
+![demo4](https://github.com/MengyangRen/workerman-tlvrpc/blob/master/img/loadlevel.png)
 ...
